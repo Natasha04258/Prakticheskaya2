@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="-swx0oeVOEndX1twhMq9">
+    <mxGraphModel dx="960" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-12" edge="1" parent="1" source="jQTIu9rt2AG3Voyjfyej-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jQTIu9rt2AG3Voyjfyej-4">
+          <mxGeometry relative="1" x="-0.9" as="geometry">
+            <mxPoint x="219.61165048543694" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre&gt;&lt;span&gt; P0. UI     &lt;/span&gt;&lt;br/&gt;&lt;span&gt; MainForm    &lt;/span&gt;&lt;br/&gt;&lt;span&gt;PaymentForm&lt;/span&gt;&lt;br/&gt;&lt;span&gt; ScheduleView&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-16" edge="1" parent="1" source="jQTIu9rt2AG3Voyjfyej-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="jQTIu9rt2AG3Voyjfyej-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-21" edge="1" parent="1" source="jQTIu9rt2AG3Voyjfyej-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jQTIu9rt2AG3Voyjfyej-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre&gt;&lt;span&gt;P3. М3&lt;/span&gt;&lt;br/&gt;&lt;span&gt;Администрирование&lt;/span&gt;&lt;br/&gt;&lt;span&gt;Группа      &lt;/span&gt;&lt;br/&gt;&lt;span&gt;Занятие      &lt;/span&gt;&lt;br/&gt;&lt;br&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-15" edge="1" parent="1" source="jQTIu9rt2AG3Voyjfyej-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="jQTIu9rt2AG3Voyjfyej-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre&gt;&lt;span&gt; P2. М2   &lt;/span&gt;&lt;br&gt;&lt;span&gt;Учебный процесс&lt;br&gt;&lt;/span&gt;&lt;span&gt;Ребёнок&lt;/span&gt;&lt;br&gt;&lt;span&gt; Посещение&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-17" edge="1" parent="1" source="jQTIu9rt2AG3Voyjfyej-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jQTIu9rt2AG3Voyjfyej-8">
+          <mxGeometry relative="1" x="-0.736" as="geometry">
+            <mxPoint x="60.38834951456306" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre&gt;&lt;span&gt;P1. М1 &lt;/span&gt;&lt;span&gt;Регистрация&lt;br&gt;&lt;/span&gt;&lt;span&gt;Родитель&lt;/span&gt;&lt;br&gt;&lt;span&gt;Препод.  &lt;/span&gt;&lt;span&gt;Админ. &lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-18" edge="1" parent="1" source="jQTIu9rt2AG3Voyjfyej-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="jQTIu9rt2AG3Voyjfyej-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P4. M4&lt;/div&gt;&lt;div&gt;Платежи&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre&gt;&lt;span&gt;P6. М6&lt;/span&gt;&lt;br&gt;&lt;span&gt;Просмотр&lt;/span&gt;&lt;br&gt;&lt;span&gt;расписания &lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P7. External&lt;/div&gt;&lt;div&gt;Платёжный сервис, уведомлений&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P5. M5&lt;/div&gt;&lt;div&gt;Уведомления&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-19" edge="1" parent="1" source="jQTIu9rt2AG3Voyjfyej-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.312;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="jQTIu9rt2AG3Voyjfyej-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQTIu9rt2AG3Voyjfyej-20" edge="1" parent="1" source="jQTIu9rt2AG3Voyjfyej-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.312;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" target="jQTIu9rt2AG3Voyjfyej-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
